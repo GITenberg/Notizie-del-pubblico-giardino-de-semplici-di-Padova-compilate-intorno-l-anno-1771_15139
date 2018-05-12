@@ -1,0 +1,29 @@
+_repo: Notizie-del-pubblico-giardino-de-semplici-di-Padova-compilate-intorno-l-anno-1771_15139
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsili, Giovanni
+    alias: Marsilius, Joannes
+    birthdate: 1727
+    deathdate: 1795
+    gutenberg_agent_id: '5876'
+    url: http://www.gutenberg.org/2009/agents/5876
+description: ''
+gutenberg_bookshelf: IT Botanica
+gutenberg_issued: '2005-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15139'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Botanical gardens -- Italy -- Padua'
+- !lcc 'QK'
+title: Notizie del pubblico giardino de' semplici di Padova compilate intorno l'anno
+  1771
+url: http://www.gutenberg.org/ebooks/15139
